@@ -54,7 +54,7 @@ end
 group :production do
   gem 'pg',             '0.17.1'
   gem 'rails_12factor', '0.0.2'
-  gem 'puma',           '3.11
+  gem 'puma',           '3.11'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
@@ -66,3 +66,9 @@ gem 'tiny_tds', '~> 2.1.3.pre'
 gem 'activerecord-sqlserver-adapter', :git => "https://github.com/rails-sqlserver/activerecord-sqlserver-adapter.git"
 
 gem 'daru-view', :git => 'https://github.com/SciRuby/daru-view'
+
+
+  
+
+
+
